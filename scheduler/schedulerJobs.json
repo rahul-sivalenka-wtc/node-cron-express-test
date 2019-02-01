@@ -1,0 +1,10 @@
+{
+  "dom1": {
+    "enabled": true,
+    "interval": "*/5 * * * * *"
+  },
+  "dom2": {
+    "enabled": true,
+    "interval": "*/3 * * * * *"
+  }
+}
